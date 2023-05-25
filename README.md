@@ -9,7 +9,7 @@
 ## Screenshots
 
 <div align="center">
-	<a href="https://github.com/NotTacosdev"><img src="https://cdn.discordapp.com/attachments/1070111211720544295/1111388783485657148/Screenshot_2023-05-25_132123.png" alt="screenshot" /></a>
+	<a href="https://github.com/NotTacosdev"><img src="https://cdn.discordapp.com/attachments/1070111211720544295/1111389583674982541/Screenshot_2023-05-25_132504.png" alt="screenshot" /></a>
 </div>
 
 ## Table of contents
