@@ -37,7 +37,7 @@
 - Server Settings 
 
 ## Installation
-Use the run.bat to automatically install the required package for you.
+Use the run.bat to automatically install the required package for you, or you could download the exe from the release section.
 ## Deployed
 
 - [GitHub]([https://github.com/NotTacosdev/Discord-Server-Cloner-Fixed])
