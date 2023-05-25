@@ -6,9 +6,16 @@ import time
 import discord
 import asyncio
 import ctypes
+from pypresence import Presence
 import colorama
 from colorama import Fore, init, Style
 import platform
+client_id = '1111145614424686602'
+RPC = Presence(client_id,pipe=0)
+RPC.connect()
+start_time=time.time()
+RPC.update(start=start_time, state=f"Cloning a server!",large_image="worrysmirk", large_text="Lua Cloner",
+            small_image="worrythumbsup", small_text="By SakshL and NotTacos",buttons=[{"label": "Join Server", "url": "https://discord.gg/notsaksh"}])
 from serverclone import Clone
 intents = discord.Intents().all()
 bot = discord.Client(intents=intents)
