@@ -34,7 +34,7 @@ print(f"""{Fore.RED}
                                     ███████╗╚██████╔╝██║░░██║  ╚█████╔╝███████╗╚█████╔╝██║░╚███║███████╗██║░░██║
                                     ╚══════╝░╚═════╝░╚═╝░░╚═╝  ░╚════╝░╚══════╝░╚════╝░╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝
 {Style.RESET_ALL}
-                                                            {Fore.MAGENTA}Developed by: NotSaksh#6969.{Style.RESET_ALL}
+                                                            {Fore.MAGENTA}Developed by: NotSaksh#6969 and NotTacos#0001.{Style.RESET_ALL}
                                                             {Fore.MAGENTA}"Pycord sucks." - NotTacos 2023{Style.RESET_ALL}
         """)
 ctypes.windll.kernel32.SetConsoleTitleW(f"Discord Server Cloner - SakshL and NotTacos")
