@@ -73,7 +73,7 @@ Contributions are always Welcome...
 -   Push your work and Create a Pull Request.....
 
 ### Issues
-If you have any issues with the project or you found a bug please create [new issue here](https://github.com/NotSaksh/Discord-Server-Cloner/issues)
+If you have any issues with the project or you found a bug please create [new issue here](https://github.com/NotTacosdev/Discord-Server-Cloner/issues)
 
 
 ### Pull Requests
