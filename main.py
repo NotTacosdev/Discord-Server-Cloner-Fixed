@@ -75,7 +75,10 @@ async def on_ready():
                                             ░╚════╝░╚══════╝░╚════╝░╚═╝░░╚══╝╚══════╝╚═════╝░
 
     {Style.RESET_ALL}""")
-    ctypes.windll.user32.MessageBoxW(0, "Server cloned!", "Discord Server Cloner", 0x0 | 0x40)
+    if os == "Windows":
+        ctypes.windll.user32.MessageBoxW(0, "Server cloned!", "Discord Server Cloner", 0x0 | 0x40)
+    else:
+        return
     await asyncio.sleep(5)
     await bot.close()
 
