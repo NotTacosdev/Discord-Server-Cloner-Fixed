@@ -44,7 +44,7 @@ Use the run.bat to automatically install the required package for you, or you co
 
 ## Links
 
-- [SakshL's GitHub](https://github.com/NotSaksh)
+- [SakshL's GitHub](https://github.com/SakshL)
 - [NotTacos's Github](https://github.com/NotTacosdev)
 
 
