@@ -37,7 +37,10 @@ print(f"""{Fore.RED}
                                                             {Fore.MAGENTA}Developed by: SakshL#6969 and NotTacos#0001.{Style.RESET_ALL}
                                                             {Fore.MAGENTA}"Pycord sucks." - NotTacos 2023{Style.RESET_ALL}
         """)
-ctypes.windll.kernel32.SetConsoleTitleW(f"Discord Server Cloner - SakshL and NotTacos")
+if os == "Windows":
+    ctypes.windll.kernel32.SetConsoleTitleW(f"Discord Server Cloner - SakshL and NotTacos")
+else:
+    system("title Discord Server Cloner - SakshL and NotTacos")
 token = input(f'Please enter your token:\n >')
 guild_s = input('Please enter guild id you want to copy:\n >')
 guild = input('Please enter guild id where you want to copy:\n >')
