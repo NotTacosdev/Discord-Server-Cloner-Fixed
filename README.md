@@ -27,7 +27,7 @@
 
 ## About
 
-*A Discord Server Cloner Which Can Clone Any Discord Server In Just Few Minutes. Made by SakshL and NotTacos, only works on WINDOWS!*
+*A Discord Server Cloner Which Can Clone Any Discord Server In Just Few Minutes. Made by SakshL and NotTacos, only works on WINDOWS and LINUX!*
 - Clone Channels
 - Channel Permissions
 - Server Roles
